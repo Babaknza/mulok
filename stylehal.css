@@ -221,7 +221,7 @@ button:focus{
 
 #head2{
   -webkit-animation: fadeOut 1 5s ease-in;
-  -moz-animation: fadeOut 1 5s ease-in;
+  -moz-animation: fadeOut 1 5s     ease-in;
   -o-animation: fadeOut 1 5s ease-in;
   animation: fadeOut 1 5s ease-in;
   -webkit-animation-delay: 6s;
