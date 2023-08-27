@@ -3,7 +3,7 @@ body {
     margin: 0;
     height: 100vh;
     font-weight: 100;
-    background: radial-gradient(#797979,#1f1013);
+    background: radial-gradient(#000000,#6b6b6b);
     -webkit-overflow-Y: hidden;
     -moz-overflow-Y: hidden;
     -o-overflow-Y: hidden;

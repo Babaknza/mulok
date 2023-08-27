@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+    <head>
+
+     
+
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+
+        <title> MULOK </title>
+
+       <link rel="stylesheet" href="style.css">
+       <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+        
+
+    </head>
+
+    <body>
+
+      <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+      <script>
+        AOS.init();
+      </script>
+
+      <!-- TOP -->
+
+      <section id="hero" class="hero w-100 h-100 p-3 mx-auto text-center d-flex 
+        justify-content-center align-items-center text-white shadow-lg">
+          <main>
+            <h4><b> <span>SEJARAH</span> JAKARTA</b> </h4>
+            <H5><b>Kelompok 6</b></H5>
+            <p><b>Jakarta adalah ibu kota Indonesia dan kota terbesar. Terletak di muara Sungai Ciliwung, di bagian barat laut Pulau Jawa, kawasan ini telah lama menjadi pemukiman manusia. Bukti sejarah dari Jakarta berasal dari abad ke-4 Masehi</b></p>
+          </main>
+        </section>
+
+        <!-- TOP -->
+
+
+        <!--sejarah -->
+
+
+      <section id="sejarah" class="sejarah w-100  ">
+        <h1><span>Awal </span>Sunda Kelapa</h1>
+       <div class="row"></div>
+        <div class="sejarah-gambar">
+          <img src="00077-00_masa-penjajahan-belanda_batavia_800x450_ccpdm-min.jpeg" class="rounded mx-auto d-block" alt="...">
+        </div>
+        <br>
+        <div style="color: wheat;" class="content" > 
+          <p >Antara tahun 397-1527 atau sekitar abad ke-5 Masehi, wilayah yang saat ini disebut Jakarta masih bernama Sunda Kelapa dan berada di bawah kekuasaan kerajaan Hindu. Pada tahun 1527, Pangeran Fatahillah dari Demak berhasil merebut Sunda Kelapa dan mengubah namanya menjadi Jayakarta.</p>
+          <p>Portugis datang kembali pada 1527 untuk menindaklanjuti perjanjian. Namun, saat itu Pelabuhan Sunda Kelapa telah dikuasai Kerajaan Demak yang dipimpin Fatahillah. Pada 22 Juni 1527, Fatahillah dapat mengusir Portugis.
+
+            Sunda Kelapa kemudian berganti menjadi Jayakarta. Nama ini bertahan dari tahun 1527-1619. Seiring berjalannya waktu, Belanda menduduki Jayakarta di bawah kepemimpinan JP Coen.</p>
+        </div>  
+        <br>
+        <h1><span>Zaman </span>Batavia</h1>
+        <div class="row"></div>
+        <div class="sejarah-gambar">
+          <img src="jakarta dulu.jpeg" class="rounded mx-auto d-block" alt="...">
+        </div>
+        <br>
+        <div style="color: wheat;" class="content" > 
+          <p >Nama Batavia berasal dari suku Batavi, sebuah suku Jermanik yang bermukim di tepi Sungai Rhein pada Zaman Kekaisaran Romawi. Bangsa Belanda dan sebagian bangsa Jerman adalah keturunan dari suku ini.
+
+            Batavia juga merupakan nama sebuah kapal layar tiang tinggi yang cukup besar asal Belanda yang dimililki perusahaan Hindia Timur Belanda (Vereenigde Oostindische Compagnie atau VOC), dibuat pada 29 Oktober 1628, dinakhodai oleh Kapten Adriaan Jakobsz. Kapal tersebut kini berada di sebuah museum di Fremantle, Australia. Kapal tersebut akhirnya kandas di pesisir Beacon Island, Australia Barat. Dan seluruh awaknya yang berjumlah 268 orang berlayar dengan perahu sekoci darurat menuju kota Batavia ini.</p>
+          <p>Pieter Both yang menjadi Gubernur Jenderal VOC pertama, lebih memilih Jayakarta sebagai basis administrasi dan perdagangan VOC daripada pelabuhan Banten, karena pada waktu itu di Banten telah banyak kantor pusat perdagangan orang-orang Eropa lain seperti Portugis, Spanyol kemudian juga Inggris, sedangkan Jayakarta masih merupakan pelabuhan kecil.
+
+            Pada tahun 1611 VOC mendapat izin untuk membangun satu rumah kayu dengan fondasi batu di Jayakarta, sebagai kantor dagang. Kemudian mereka menyewa lahan sekitar 1,5 hektare di dekat muara di tepi bagian timur Sungai Ciliwung, yang menjadi kompleks perkantoran, gudang dan tempat tinggal orang Belanda, dan bangunan utamanya dinamakan Nassau Huis.
+            </p>
+        </div>  
+        <h1><span>Masa Jajahan</span> Jakarta</h1>
+        <div class="row"></div>
+        <div class="sejarah-gambar">
+          <img src="batavia.jpg" class="rounded mx-auto d-block" alt="...">
+        </div>
+        <br>
+        <div style="color: wheat;" class="content" > 
+          <p >Keadaan masyarakat Indonesia pada masa penjajahan Eropa harus bertahan dalam sistem monopoli dan kekuasaan lain yang diterapkan penjajah. Tak sedikit masyarakat merasa dirugikan akibat sistem yang dijalankan oleh bangsa Eropa, seperti sistem monopoli yang dijalankan Vereenigde Oost-Indische Compagnie atau VOC.
+        </p>
+          <p>Data ini belum termasuk data penduduk di daerah lain, yang menunjukkan betapa mengerikannya masa penjajahan saat itu. Tentu saja, tingginya kematian tersebut bukan semata-mata disebabkan sistem Tanam Paksa, melainkan akumulasi dari berbagai hal lainnya dari pengaruh penjajahan pula.
+          </p>
+        </div>  
+        <h1><span>Masa Kemerdekaan</span> Jakarta</h1>
+        <div class="row"></div>
+        <div class="sejarah-gambar">
+          <img src="merdeka.jpeg" class="rounded mx-auto d-block" alt="...">
+        </div>
+        <br>
+        <div style="color: wheat;" class="content" > 
+          <p >Dalam sejarahnya, Jakarta telah berdiri sejak 1527. Hari kelahiran Jakarta ditetapkan tanggal 22 Juni 1527 berdasarkan surat keputusan Dewan Perwakilan Kota Sementara Djakarta Raja pada 23 Februari 1956.</p>
+          <p>DKI Jakarta kemudian ditetapkan sebagai Ibu Kota Negara Republik Indonesia dengan nama Jakarta melalui Undang-Undang Nomor 10 Tahun 1964 pada 31 Agustus 1964.</p>
+        </div>
+        <h1><span>Masa sekarang</span> Jakarta</h1>
+        <div class="row"></div>
+        <div class="sejarah-gambar">
+          <img src="jakartasekarang.jpeg" class="rounded mx-auto d-block" alt="...">
+        </div>
+        <br>
+        <div style="color: wheat;" class="content" > 
+          <p >Sekarang Jakarta menjadi ibu kota Indonesia, menjadi pusat ekonomi terbesar di indonesia, jakarta memiliki banyak kendala seperti banjir dan yang sekarang sedang ramai di bicarakan yaitu polusi yang sudah berbahya, dan masih banyak cerita kelas dan senang yang ada di jakarta</p>
+          <p>Karena masalah yang penumpuk, dan jakarta di prediksi akan tenggelam , dan over populasi, Pak jokowi merencanakan pemindahan ibu kota ke kalimatan</p>
+        </div>  
+      </div>
+      </div>
+      </section>
+
+      <!--sejarah-->
+
+      
+
+
+    </body>
+
+
+</html>
